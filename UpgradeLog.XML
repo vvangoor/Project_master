@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ImageEditorInCSharp">
+</Property><Property Name="Solution File" Value="C:\Users\vvangoor\Desktop\ImageEditorInCSharp\ImageEditorInCSharp\ImageEditorInCSharp.sln">
+</Property><Property Name="Date" Value="Thursday, August 11, 2011">
+</Property><Property Name="Time" Value="18:06 PM">
+</Property></Properties><Event ErrorLevel="0" Project="ImageEditorInCSharp" Source="ImageEditorInCSharp\ImageEditorInCSharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImageEditorInCSharp" Source="ImageEditorInCSharp\ImageEditorInCSharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ImageEditorInCSharp.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ImageEditorInCSharp.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImageEditorInCSharp" Source="ImageEditorInCSharp\ImageEditorInCSharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
