@@ -15,6 +15,7 @@ namespace ImageEditor
         public Form1()
         {
             InitializeComponent();
+            //Updated Today
         }
 
         private Image Img;
