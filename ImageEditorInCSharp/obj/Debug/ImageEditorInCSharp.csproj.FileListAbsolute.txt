@@ -40,3 +40,9 @@ F:\Sample Project\ImageEditorInCSharp\ImageEditorInCSharp\obj\Debug\ImageEditor.
 F:\Sample Project\ImageEditorInCSharp\ImageEditorInCSharp\obj\Debug\ImageEditorInCSharp.csproj.GenerateResource.Cache
 C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditorInCSharp.exe
 C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditorInCSharp.pdb
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\bin\Debug\ImageEditorInCSharp.exe
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\bin\Debug\ImageEditorInCSharp.pdb
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditorInCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditor.Form1.resources
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\vvangoor\Source\Repos\Project_master\ImageEditorInCSharp\obj\Debug\ImageEditorInCSharp.csproj.GenerateResource.Cache

@@ -18,8 +18,8 @@ namespace ImageEditor
             //Updated Today
 
             int i = 2;
-            int j = 4;
-            int l = i + j;
+            int j = 0;
+            int l = i/j;
         }
 
         private Image Img;
