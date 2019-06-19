@@ -18,7 +18,7 @@ namespace ImageEditor
             //Updated Today
 
             int i = 3;
-            int j = 0;
+            int j = 2;
             int l = i/j;
         }
 
