@@ -17,7 +17,7 @@ namespace ImageEditor
             InitializeComponent();
             //Updated Today
 
-            int i = 2;
+            int i = 3;
             int j = 0;
             int l = i/j;
         }
